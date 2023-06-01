@@ -3,7 +3,7 @@ An "AI" chatbot I wrote in ~1984
 
 > Please excuse my lack of gender inclusivity.  It was 1984 and I was 11...such things weren't on my mind.
 
-![demo](talback.gif)
+![demo](talkback.gif)
 
 ## Code
 
